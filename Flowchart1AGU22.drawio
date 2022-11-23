@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T15:09:49.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5MwpHAXsLPGI0y0h-YH1" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T16:09:54.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bsn8x-3rwcOPWrSiYf1L" version="20.6.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1768" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#95B3D7" math="0" shadow="0">
+    <mxGraphModel dx="38" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#95B3D7" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="984" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#1F497D;" parent="1" vertex="1">
           <mxGeometry x="1223" y="518" width="350" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="985" value="&lt;font color=&quot;#9bbb59&quot;&gt;LESS IS MORE&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="386" width="210" height="40" as="geometry" />
+        <mxCell id="985" value="COMMUNITY &lt;br&gt;CONTRIBUTIONS" style="text;resizable=1;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#9BBB59;fontStyle=1;html=1;overflow=fill;strokeOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="949" y="386" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="986" value="&lt;font color=&quot;#eeece1&quot;&gt;1&amp;nbsp;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="873" y="309" width="130" height="130" as="geometry" />
@@ -37,41 +37,38 @@
         <mxCell id="990" value="&lt;font color=&quot;#eeece1&quot;&gt;5&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="874" y="1251" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;&lt;font color=&quot;#eeece1&quot;&gt;&lt;span style=&quot;line-height: 120%;&quot;&gt;Reduce it to purely the essential &lt;/span&gt;&lt;br&gt;information.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="459" width="280" height="50" as="geometry" />
+        <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font color=&quot;#eeece1&quot; style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;This code needs to be tested.&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
+          <mxGeometry x="949" y="501" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;IT&#39;S ALL ABOUT&amp;nbsp;&lt;br&gt;VISION-TRACKING&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1275" y="604" width="280" height="80" as="geometry" />
+        <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;AUTOMATED CI&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;TESTING TRIGGERS&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1275" y="604" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="995" value="&lt;div&gt;&lt;font color=&quot;#9bbb59&quot;&gt;GIVE ME SPACE&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="875" width="230" height="40" as="geometry" />
+        <mxCell id="995" value="&lt;font color=&quot;#9bbb59&quot;&gt;PULL REQUEST&amp;nbsp;&lt;br&gt;SHOWS RESULTS&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="948.9999999999999" y="875" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;USE A CONSISTENT&amp;nbsp;&lt;br&gt;STYLE&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1102" width="290" height="80" as="geometry" />
+        <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;PEER REVIEW&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1102" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;AND SPACING&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="1324" width="280" height="120" as="geometry" />
+        <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#9bbb59&quot;&gt;CODE IS MERGED&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="948.9999999999999" y="1324" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="998" value="&lt;font color=&quot;#eeece1&quot;&gt;Scribble down your content.&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="430" width="250" height="30" as="geometry" />
+        <mxCell id="998" value="&lt;font color=&quot;#eeece1&quot;&gt;Pull Request is made to the &lt;br&gt;GitHub repository.&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="451" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="999" value="&lt;div&gt;&lt;font color=&quot;#eeece1&quot;&gt;Guide the viewer&#39;s eye through&amp;nbsp;&lt;br&gt;&lt;span&gt;the content.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="687" width="280" height="50" as="geometry" />
+        <mxCell id="999" value="&lt;font color=&quot;#eeece1&quot;&gt;GitHub actions spin up the NOAA &lt;br&gt;Cloud clusters for CI testing.&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="687" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1000" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;&lt;font color=&quot;#eeece1&quot;&gt;Each part of the graphic should&lt;br&gt;be well-structured&lt;/font&gt;.&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="735" width="280" height="50" as="geometry" />
+        <mxCell id="1000" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font color=&quot;#eeece1&quot; style=&quot;line-height: 120%&quot;&gt;GitHub actions run test scripts&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font color=&quot;#eeece1&quot; style=&quot;line-height: 120%&quot;&gt;on the NOAA cloud clusters.&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="735" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1001" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;&lt;font color=&quot;#eeece1&quot;&gt;It groups content visually.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="967" width="230" height="30" as="geometry" />
+        <mxCell id="1002" value="&lt;font color=&quot;#eeece1&quot;&gt;The status of the CI tests is&lt;br&gt;shown on the PR.&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="945" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1002" value="&lt;font color=&quot;#eeece1&quot;&gt;Enough &quot;white space&quot; makes&lt;br&gt;an infographic look tidy.&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="919" width="260" height="50" as="geometry" />
+        <mxCell id="1003" value="&lt;font color=&quot;#eeece1&quot;&gt;Reviewer(s) with knowledge of&amp;nbsp;&lt;br&gt;code review request changes&lt;br&gt;or approve the code.&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1278" y="1150" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1003" value="&lt;font color=&quot;#eeece1&quot;&gt;Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1185" width="270" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1004" value="&lt;font color=&quot;#eeece1&quot;&gt;Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned.&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="1442" width="280" height="80" as="geometry" />
+        <mxCell id="1004" value="&lt;font color=&quot;#eeece1&quot;&gt;Once approved by the reviewer(s),&lt;br&gt;a code manager will merge the&lt;br&gt;PR.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="1370" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1007" value="" style="endArrow=oval;html=1;strokeColor=#EEECE1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=1;rounded=1;endSize=6;startArrow=oval;startFill=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -213,7 +210,13 @@
           <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="2OWX0lFxsrAblKGcUKh9-1067" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/git-merge-128.png;fillColor=#000000;" vertex="1" parent="1028">
-          <mxGeometry x="10" y="5.5" width="50.5" height="50.5" as="geometry" />
+          <mxGeometry x="11.5" y="7.75" width="50.5" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2OWX0lFxsrAblKGcUKh9-1072" value="&lt;font color=&quot;#eeece1&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="949" y="990" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OWX0lFxsrAblKGcUKh9-1073" value="&lt;font color=&quot;#eeece1&quot;&gt;If changes are made, the CI&amp;nbsp;&lt;br&gt;tests will re-trigger.&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1220" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
